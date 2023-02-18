@@ -1,0 +1,21 @@
+
+
+int func() {
+
+    int a;
+    a = 0;
+    return a + 2;
+}
+
+
+void func1() {
+    return;
+}
+
+int main() {
+
+    int k;
+    func1();
+    k= func();
+    report k;
+}

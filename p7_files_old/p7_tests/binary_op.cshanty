@@ -1,0 +1,31 @@
+int  main() {
+    int r;
+    int v;
+    v =1;
+    r = 7 * v;
+    r = v + 5;
+    r = v - 5;
+    r = r/2;
+    report r;
+    r = r + v + 2;
+
+    report r;
+
+    bool b;
+    b = 3 < 4;
+    report b;
+    b = 3 <= 4;
+    report b;
+    b = 3 > 4;
+    report b;
+    b = 3 >= 4;
+    report b;
+    b = 3 == 4;
+    report b;
+    b = 3 != 4;
+    report b;
+    b = true && false;
+    report b;
+    b = true || false;
+    report b;
+}

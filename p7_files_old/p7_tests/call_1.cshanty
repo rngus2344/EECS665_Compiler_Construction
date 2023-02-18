@@ -1,0 +1,21 @@
+int func(int a, int b){
+
+    int c;
+    int d;
+
+    c = a;
+    d = b;
+    return c;
+}
+
+
+
+int main(){
+    int k;
+
+
+    k = func(5,6);
+
+    report k;
+
+}

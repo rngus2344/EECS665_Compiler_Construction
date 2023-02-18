@@ -1,0 +1,25 @@
+int func(int a, int b, int c) {
+    return  a + b + c;
+}
+
+void func1()
+{
+
+}
+
+void call_with_no_return() {
+    func1();
+}
+
+int main () {
+    int k;
+    int a;
+    int b;
+    call_with_no_return();
+    a = 1;
+    b = 2;
+    k = func(a, b, a+b);
+    report k;
+}
+
+

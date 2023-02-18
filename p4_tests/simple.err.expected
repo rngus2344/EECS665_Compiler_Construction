@@ -1,0 +1,8 @@
+void a;
+
+int main(void b, int c) {
+    d = a;
+
+    int c;
+    c++;
+}

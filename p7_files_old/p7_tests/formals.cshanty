@@ -1,0 +1,11 @@
+
+
+int fn(int c, bool d){
+	report c;
+	report d;
+}
+
+int main() {
+
+	fn(6,false);
+}

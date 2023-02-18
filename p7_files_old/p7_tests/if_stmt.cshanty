@@ -1,0 +1,11 @@
+int main() {
+
+    int var;
+    var = 10;
+
+    if( 9 < var) {
+        var = var + 5;
+    }
+    
+    report var;
+}

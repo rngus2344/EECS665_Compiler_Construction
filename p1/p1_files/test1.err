@@ -1,0 +1,4 @@
+Bad path test1.cmm
+Usage: teencc <infile> <options>
+ [-t <tokensFile>]
+

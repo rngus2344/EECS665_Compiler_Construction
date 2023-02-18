@@ -1,0 +1,15 @@
+int f(int num1, int num2) {
+    return num1 + num2;
+}
+
+void main() {
+    int a;
+    ptr int b;
+    b = &a;
+    @b = 4;
+
+    int c;
+    a = 1;
+    c = 1;
+    write f(a, c);
+}

@@ -1,0 +1,12 @@
+int main() {
+
+    int var;
+    var = 1;
+
+   while (var < 9) {
+       var = var + 3;
+   }
+
+   report var;
+    
+}

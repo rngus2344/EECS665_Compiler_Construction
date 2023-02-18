@@ -1,0 +1,4 @@
+bool a;
+int main(){
+  write a;
+}

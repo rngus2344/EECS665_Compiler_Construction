@@ -1,0 +1,16 @@
+int main() {
+    int v;
+    v=1;
+    v = -v;
+    report v;
+    v = -v;
+    report v;
+
+    bool b;
+    b = true;
+    b = !b;
+    report b;
+    b = false;
+    b = !b;
+    report b;
+}
